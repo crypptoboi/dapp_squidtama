@@ -1,0 +1,25 @@
+{
+    "token_address": "0x35f6f6364bf820393d6b12a24bc06258c21b2536",
+    "token_id": "4505",
+    "amount": "1",
+    "owner_of": "0xc68db0cc1f4eaad62672f142341550a9b53c21c5",
+    "token_hash": "8db7bcf8b76eb5432394738f7f043103",
+    "block_number_minted": "23330323",
+    "block_number": "23330323",
+    "contract_type": "ERC721",
+    "name": "LooBrNFT",
+    "symbol": "LooBrNFT",
+    "token_uri": "https://loobr.infura-ipfs.io/ipfs/QmcuCiQuPdLgXyfeFQA7M2oggUC8BoADFLnNv8XVCSxDyM",
+    "metadata": "{\"image\":\"https://loobr.infura-ipfs.io/ipfs/QmQ5ZRMXb11nCZBGhmfSkERAqhvwzsZwYmqreTXvieDb6J\",\"name\":\"image 402\",\"description\":\"First edition SQUIDTAMA NFTS \",\"attributes\":[],\"categories\":[\"Artwork\"],\"collectionId\":\"637419fa61a7903b33089976\"}",
+    "last_token_uri_sync": "2022-11-24T11:03:54.991Z",
+    "last_metadata_sync": "2022-11-25T18:26:08.328Z",
+    "minter_address": null,
+    "normalized_metadata": {
+        "name": "image 402",
+        "description": "First edition SQUIDTAMA NFTS ",
+        "animation_url": null,
+        "external_link": null,
+        "image": "https://loobr.infura-ipfs.io/ipfs/QmQ5ZRMXb11nCZBGhmfSkERAqhvwzsZwYmqreTXvieDb6J",
+        "attributes": []
+    }
+}
